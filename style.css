@@ -33558,3 +33558,22 @@ body.dark {
   background-color: rgba(0, 0, 0, 0.2);
 }
 /*# sourceMappingURL=style.css.map */
+
+/* CSS for Mobile Viewport */
+@media (max-width: 767px) {
+  /* Positioning Employee Login */
+  .primary-menu {
+      text-align: center; /* Center align menu items */
+  }
+  
+  .primary-menu-trigger {
+      display: block; /* Display the mobile menu trigger */
+      text-align: center; /* Center align the trigger */
+      margin-top: 20px; /* Adjust margin from the top */
+  }
+  
+  .button {
+      display: block; /* Display the buttons as block elements */
+      margin: 20px auto; /* Center align the buttons */
+  }
+}
