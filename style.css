@@ -17582,7 +17582,6 @@ body:not(.is-expanded-menu):not(.primary-menu-open) .semi-transparent.transparen
 }
 .is-expanded-menu .full-header #logo {
   padding-right: 30px;
-  border-right: 1px solid var(--cnvs-header-border-color);
 }
 .is-expanded-menu #header.transparent-header.full-header #logo {
   border-right-color: var(--cnvs-header-transparent-border-color);
